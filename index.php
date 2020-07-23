@@ -37,6 +37,10 @@
                     <a class="nav-link" href="#preventid">Prevention</a>
                 </li>
 
+                <li class="nav-item">
+                    <a class="nav-link" href="indiacoronalive.php">Indiacoronalive</a>
+                </li>
+
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#Contactid">Contact</a>
