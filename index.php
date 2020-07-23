@@ -61,7 +61,7 @@
             <div class="col-lg-7 col-md-7 col-12 order-lg-2 order-1">
                 <div class="rightside  w-100 h-100 d-flex justify-content-center 
       align-items-center">
-                    <h1>Let's Stay Safe & Find Together Against Cor<span class="corona_rot">
+                    <h1>Let's Stay Safe & Fight Together Against Cor<span class="corona_rot">
                             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTMUwjzTomfxusOz_fFjB4jJoW0aRKpCvlprQ&usqp=CAU"
                                 height="60" width="50"></span> na Virus </h1>
                 </div>
@@ -317,19 +317,19 @@
 
                          
                         <div class="form-group">
-                            <label >username </label>
+                            <label >Username </label>
                             <input type="text" class="form-control" name="username" placeholder="name" autocomplete="off" required>
                           </div>
 
 
                         <div class="form-group">
-                          <label >email </label>
-                          <input type="email" class="form-control" name=email placeholder="name" autocomplete="off" required>
+                          <label >Email </label>
+                          <input type="email" class="form-control" name=email placeholder="email" autocomplete="off" required>
                         </div>
                         
                         <div class="form-group">
                             <label >mobile </label>
-                            <input type="number" class="form-control"  name="mobile" placeholder="name" autocomplete="off" required>
+                            <input type="number" class="form-control"  name="mobile" placeholder="mobile" autocomplete="off" required>
                           </div>
 
                           <div class="form-group">
